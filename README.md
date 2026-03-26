@@ -157,18 +157,13 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
-## 📊 GitHub pulse
-
-<p align="center">
-  <img height="180" src="https://readme-stats-github.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
-</p>
-
-### Snapshot
+## ⚡ Snapshot
 
 <div align="center">
 
 [![Base](https://img.shields.io/badge/Based-Dubai%2C_UAE-0f172a?style=for-the-badge)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
 [![Focus](https://img.shields.io/badge/Focus-Python_%C2%B7_AI_%C2%B7_Web3-581c87?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Zaidi2126)
+[![Repos](https://img.shields.io/badge/Code-%40Zaidi2126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaidi2126?tab=repositories)
 [![Reach](https://img.shields.io/badge/Say_hi-gmail-be123c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
 </div>
