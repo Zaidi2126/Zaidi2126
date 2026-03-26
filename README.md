@@ -9,7 +9,6 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=Zaidi2126&label=VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/Zaidi2126)
 [![GitHub](https://img.shields.io/badge/GitHub-Zaidi2126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaidi2126)
-[![GitLab](https://img.shields.io/badge/GitLab-Zaidi2126-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Zaidi2126)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Shehroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
 [![Email](https://img.shields.io/badge/Email-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
@@ -45,33 +44,6 @@ I'm **Shehroz Zaidi**—I love **problem-solving**, **AI-driven products**, and 
 When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, **good food** keeps me happy. (Also: **JDM**, **car guy**, **snooker addict**, **tech head**—if you know, you know.)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
-
-## 🛠️ Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,vue,angular,ts,js,tailwind,nodejs,php,laravel,docker,kubernetes,aws,redis,postgres,mysql,git,github,gitlab,linux&perline=11" alt="Tech icons" width="92%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-655b00?style=for-the-badge" alt="BeautifulSoup" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LLM%20%C2%B7%20RAG%20%C2%B7%20Vector_DB-7C3AED?style=for-the-badge" alt="LLM RAG" />
-  <img src="https://img.shields.io/badge/NLP%20%C2%B7%20Embeddings-0891B2?style=for-the-badge" alt="NLP" />
-  <img src="https://img.shields.io/badge/Speech_to_Text-E11D48?style=for-the-badge" alt="STT" />
-  <img src="https://img.shields.io/badge/Web_Scraping-334155?style=for-the-badge" alt="Scraping" />
-  <img src="https://img.shields.io/badge/G_Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="G Suite" />
-  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Web3-E2761B?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-</p>
-
-<div align="center"><sub>Matches the public stack list on my portfolio · microservices · automation · transformers · deployments</sub></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
@@ -187,24 +159,9 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 ## 📊 GitHub pulse
 
-<!-- Stats widgets: official github-readme-stats + github-profile-trophy hosts often 503 (deployment paused).
-     Mirrors below return image/svg+xml — swap back to vercel.app if those projects resume. -->
-
-<table align="center">
-<tr>
-<td align="center">
+<p align="center">
   <img height="180" src="https://readme-stats-github.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
-</td>
-<td align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Zaidi2126&theme=radical&hide_border=true&border_radius=12" alt="Streak stats" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img height="180" src="https://readme-stats-github.vercel.app/api/top-langs/?username=Zaidi2126&layout=donut&theme=radical&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Zaidi2126&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
@@ -219,7 +176,6 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 | Platform | Link |
 |:--:|:--|
 | **GitHub** | [**@Zaidi2126**](https://github.com/Zaidi2126) |
-| **GitLab** | [**Zaidi2126**](https://gitlab.com/Zaidi2126) |
 | **LinkedIn** | [**shehroz-zaidi-916a8a218**](https://www.linkedin.com/in/shehroz-zaidi-916a8a218) |
 | **Email** | [**shehroz.z.zaidi@gmail.com**](mailto:shehroz.z.zaidi@gmail.com) |
 | **Base** | **Dubai, UAE** · **Born & raised UAE** |
