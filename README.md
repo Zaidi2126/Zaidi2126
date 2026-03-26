@@ -12,9 +12,11 @@
 
 ## About me
 
-Welcome to my GitHub profile. This repo (`Zaidi2126`) is my **special profile README** — it’s what you see at the top of [my profile](https://github.com/Zaidi2126).
+I'm **Zaidi** — a developer who likes turning messy problems into software that actually helps someone. I care about code that’s easy to read and change, with just enough structure that a project can grow without turning into spaghetti.
 
-I’m interested in writing clean code, exploring new tools, and shipping things that are useful. Edit this file to tell your own story: your background, what you’re working on, and what you’re looking for next.
+Day to day, I’m usually building things, trying new tools when they earn their place, and revisiting older projects when I learn a better approach. I’m happiest when something ships: a small fix, a new feature, or a repo that’s a little clearer than it was last week.
+
+This repository (`Zaidi2126` — same as [my username](https://github.com/Zaidi2126)) is my **profile README**, so it shows up at the top of my GitHub profile. My other repos and activity here are the real portfolio; if you want to collaborate or chat about something you see, reach out via the links below.
 
 ## Tech I use
 
