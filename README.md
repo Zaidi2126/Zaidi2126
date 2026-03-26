@@ -10,6 +10,7 @@
 [![Visitors](https://komarev.com/ghpvc/?username=Zaidi2126&label=VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/Zaidi2126)
 [![GitHub](https://img.shields.io/badge/GitHub-Zaidi2126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaidi2126)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Shehroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6153eb2d1dcc6ec)
 [![Email](https://img.shields.io/badge/Email-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
 <div align="center"><sub>~4 years · ~22+ shipped projects · backends · AI · Web3 · automation · Dubai 🇦🇪</sub></div>
@@ -37,42 +38,6 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
-
-## 💼 Experience
-
-<details open>
-<summary><b>🇦🇪 United Future</b> · <i>Dubai, UAE</i> · <code>01/2024</code> → <b>Present</b> · <i>Full Stack / Backend / Senior Backend</i></summary>
-
-<br>
-
-- Scalable **Python** services & **REST** APIs · **microservices**, real-time flows, third-party integrations  
-- **Django**, **FastAPI**, **Flask** · structured APIs, versioning, documentation  
-- **Web3.py** & **Ethereum** · wallets, transactions, efficiency & reliability  
-- **Applied AI**: documents, summarization, contextual extraction; meeting-intelligence / transcription-style flows  
-- **React** & **Vue** dashboards hooked to APIs  
-- **Redis** · **Docker** & **Kubernetes** · **Linux** ops (deploy, monitor, debug)  
-- **Node.js** for chosen services & tooling  
-- **OAuth2**, **JWT**, **RBAC**  
-
-</details>
-
-<br>
-
-<details>
-<summary><b>🇬🇧 Brains Logic</b> · <i>Remote — United Kingdom</i> · <code>02/2022</code> – <code>01/2024</code> · <i>Associate Full Stack / Backend</i></summary>
-
-<br>
-
-- **Python** (**FastAPI**, **Django**), **REST**, **microservices** for **fintech** & **document-heavy** products  
-- **React** & **JavaScript** frontends & internal tools  
-- **Stripe**, **Authorize.net** · receivable discounting & secure financial flows  
-- **OCR**, extraction, **scraping** / ETL automation; workers & workflow automation  
-- **AWS** (**ECS**, **EC2**, **S3**), **Docker**, **Kubernetes** · security & cross-team delivery  
-- **Node.js** integrations  
-
-</details>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
 ## 🎓 Education
 
@@ -185,6 +150,7 @@ flowchart LR
 |:--:|:--|
 | **GitHub** | [**@Zaidi2126**](https://github.com/Zaidi2126) |
 | **LinkedIn** | [**shehroz-zaidi-916a8a218**](https://www.linkedin.com/in/shehroz-zaidi-916a8a218) |
+| **Upwork** | [**Freelancer profile**](https://www.upwork.com/freelancers/~01f6153eb2d1dcc6ec) |
 | **Email** | [**shehroz.z.zaidi@gmail.com**](mailto:shehroz.z.zaidi@gmail.com) |
 | **Base** | **Dubai, UAE** · **Born & raised UAE** |
 
