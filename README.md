@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Syed+Shehroz+Haider;Full+Stack+%26+Backend+Engineer;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+React;Shipping+production+systems+%F0%9F%9A%80+Dubai%2C+UAE" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Shehroz+Zaidi+%7C+Syed+Shehroz+Haider;Full+Stack+%26+Backend+Engineer;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+AI;Born+%26+raised+UAE+%F0%9F%87%A6%F0%9F%87%AA+%C2%B7+Dubai" alt="Typing animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontAlign=50&fontSize=42&descAlign=62&descAlignY=40" width="100%" alt="Header wave" />
 
@@ -9,10 +9,11 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=Zaidi2126&label=VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/Zaidi2126)
 [![GitHub](https://img.shields.io/badge/GitHub-Zaidi2126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaidi2126)
+[![GitLab](https://img.shields.io/badge/GitLab-Zaidi2126-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Zaidi2126)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Shehroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
 [![Email](https://img.shields.io/badge/Email-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
-<div align="center"><sub>~4 years · APIs · microservices · AI · Web3 · cloud · Dubai 🇦🇪</sub></div>
+<div align="center"><sub>~4 years · ~22+ shipped projects · backends · AI · Web3 · automation · Dubai 🇦🇪</sub></div>
 
 </div>
 
@@ -25,11 +26,11 @@
 <td width="52" valign="top"><h3>🎯</h3></td>
 <td>
 
-I'm a **full stack engineer with a strong Python backend foundation**—about **four years** shipping **end-to-end production systems**. I design **REST APIs**, **microservices**, and **backend architecture** with **Django**, **FastAPI**, and **Flask**, and I build **responsive, data-driven frontends** with **React**, **Vue.js**, **TypeScript**, and **JavaScript**, wired tightly to the backend.
+**Portfolio vibe:** developer **born and raised in the UAE**, focused on **backend systems**, **automation**, **AI**, and **blockchain**—and on building things that **actually work** and **ship**. Off-screen: **cars**, **coding**, **snooker**, and hunting the **best beef burgers** in town.
 
-On the server I lean hard into **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **async** & **real-time** flows, **Redis**, **query tuning**, and **CI/CD**. I've shipped **applied AI**—**document processing**, **summarization**, **intelligent extraction**, **OCR**, **meeting-intelligence**—plus **scraping**, **automation**, **workers**, and **workflow** / **reporting** pipelines.
+I'm a **full stack engineer with a strong Python backend**—about **four years** in **end-to-end production**: **REST APIs**, **microservices**, **Django**, **FastAPI**, **Flask**, plus **React**, **Vue**, **TypeScript**, and **Tailwind**-style frontends where the product needs them.
 
-**Web3.py · Ethereum · smart contracts**, wallets, **gas**-aware flows, **Stripe**, **Authorize.net**, receivable discounting, secure transfers. Daily toolkit: **Linux**, **Docker**, **Kubernetes**, **AWS** (**EC2**, **ECS**, **S3**), and **Node.js** where it earns its keep.
+I care about **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **real-time** & **async** flows, **Redis**, **CI/CD**, and **applied AI** (documents, **OCR**, **RAG**, **LLMs**, **speech-to-text**, meeting intelligence). **Web3**, **Ethereum**, **Stripe** / **Authorize.net**, **Docker**, **Kubernetes**, and **AWS** (**EC2**, **ECS**, **S3**) are regular territory.
 
 **Philosophy:** performance, reliability, maintainability—**backend-first** when it counts, **full stack** when the product demands it.
 
@@ -37,27 +38,40 @@ On the server I lean hard into **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / vers
 </tr>
 </table>
 
+### Words from my site
+
+I'm **Shehroz Zaidi**—I love **problem-solving**, **AI-driven products**, and anything that forces me to think differently. I've spent years on **full platforms**, **deep automation**, and **AI-powered** systems so every piece **connects** and **performs**. I keep exploring **blockchain** and projects that tie **real-world** ops to **new tech**.
+
+When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, **good food** keeps me happy. (Also: **JDM**, **car guy**, **snooker addict**, **tech head**—if you know, you know.)
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
 ## 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,vue,ts,js,nodejs,docker,kubernetes,aws,redis,postgres,mysql,git,github,linux&perline=9" alt="Tech icons" width="90%" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,vue,angular,ts,js,tailwind,nodejs,php,laravel,docker,kubernetes,aws,redis,postgres,mysql,git,github,gitlab,linux&perline=11" alt="Tech icons" width="92%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OAuth2-3C1?&style=for-the-badge&logo=auth0&logoColor=white&color=EB5424" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-655b00?style=for-the-badge" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LLM%20%C2%B7%20RAG%20%C2%B7%20Vector_DB-7C3AED?style=for-the-badge" alt="LLM RAG" />
+  <img src="https://img.shields.io/badge/NLP%20%C2%B7%20Embeddings-0891B2?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/Speech_to_Text-E11D48?style=for-the-badge" alt="STT" />
+  <img src="https://img.shields.io/badge/Web_Scraping-334155?style=for-the-badge" alt="Scraping" />
+  <img src="https://img.shields.io/badge/G_Suite-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="G Suite" />
+  <img src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth2" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/RBAC-1B2838?style=for-the-badge&logo=sharp&logoColor=white" alt="RBAC" />
   <img src="https://img.shields.io/badge/Web3-E2761B?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-  <img src="https://img.shields.io/badge/OCR%20%26%20AI-7C3AED?style=for-the-badge" alt="OCR AI" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-<div align="center"><sub>Microservices · REST · OCR · automation · background jobs · smart contracts · secure payments</sub></div>
+<div align="center"><sub>Matches the public stack list on my portfolio · microservices · automation · transformers · deployments</sub></div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
@@ -99,34 +113,75 @@ On the server I lean hard into **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / vers
 
 ## 🎓 Education
 
-<table>
-<tr>
-<td>
-
-🎓 **B.Sc. Software Engineering**  
-**University of Management and Technology (UMT)** · Lahore, Pakistan  
-
-🏆 **Dean’s Merit Award**
-
-</td>
-</tr>
-</table>
+🎓 **B.Sc. Software Engineering** — **UMT**, Lahore, Pakistan · **Dean’s Merit Award**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
-## 🚀 Shipped & scaled
+## 🚀 Projects
 
-| | Product | Live |
-|:--:|--|--|
-| 💰 | **IFund** — receivable discounting / finance | [**ifundfactoring.com**](https://ifundfactoring.com) |
-| ⛓️ | **All In One (AIO)** — crypto gateway, blockchain | [**allinone.cash**](https://allinone.cash) |
-| 🪙 | **AurPay** — crypto payment & settlement | *link on request* |
-| 🚲 | **Miami Bikes CRM** — CRM & ops | [**portal**](http://miamibikes.onlinecrmpro.com/login.php) |
-| 💳 | **Crypto Card** — cards, accounts, txs | [**crypto-card.store**](https://crypto-card.store) |
-| 🏢 | **Hash Tech** — corporate platform | [**hashtechno.com**](https://hashtechno.com) |
-| ⚙️ | **Web Dev SaaS** — automation + React | [**app.avocadata.com**](https://app.avocadata.com) |
-| 😀 | **SmileFast CMS** — CMS & admin | [**smilefast.com**](https://smilefast.com) |
-| 🎮 | **Cyber Arena** — high-traffic digital / gaming | [**cyber-arena.co**](https://cyber-arena.co) |
+*Curated from my portfolio — web, blockchain, AI, and automation. Filters on the site match: **Web · Blockchain · Automation · AI · Tools**.*
+
+<details open>
+<summary><b>🌐 Web & platforms</b></summary>
+
+<br>
+
+| Project | What it is | Link |
+|:--|:--|:--|
+| **IFund** | Receivables financing & working capital; doc upload, validation, workflows; React + Python/Django + automation | [**ifundfactoring.com**](https://ifundfactoring.com/) |
+| **BCR Ltd. UK** | Corporate site — catalogue, lead gen, fast **React + Tailwind** front end | [**bcrprofiles.com**](https://www.bcrprofiles.com/) |
+| **Hash Tech** | Services / credibility / lead capture; **React + Tailwind** + Python REST | [**hashtechno.com**](https://hashtechno.com/) |
+| **EvocaData (SaaS)** | Lead marketplace & data intel; **React + Tailwind**; Python (**Django**, **FastAPI**), scraping, **Power BI**-style analytics | [**app.avocadata.com**](https://app.avocadata.com/) |
+| **SmileFast – CMS** | Custom CMS for marketing ops; **React + Tailwind** admin, **Django** backend | [**smilefast.com**](https://smilefast.com/) |
+| **Miami Bikes – CRM** | Retail / wholesale bike ops; leads, inventory, service — **React** + **Python/Django** | [**Portal**](http://miamibikes.onlinecrmpro.com/login.php) |
+| **Crypto Card** | Virtual crypto-backed cards, wallets, limits — **React + Tailwind** + **Django** | [**crypto-card.store**](https://crypto-card.store/) |
+| **Cyber Arena** | Esports / tournaments / matchmaking — **React** + **Python/Django** | [**cyber-arena.co**](https://cyber-arena.co/) |
+
+</details>
+
+<details>
+<summary><b>⛓️ Blockchain & crypto</b></summary>
+
+<br>
+
+| Project | What it is | Link |
+|:--|:--|:--|
+| **Aurpay** | Non-custodial crypto gateway (BTC, ETH, stables, Lightning); **React + Tailwind**, **FastAPI**, Web3, Docker, event-driven automation | [**aurpay.net**](https://aurpay.net/) |
+| **All-in-One (AIO)** | Multi-asset crypto acceptance, routing, reporting; **React + FastAPI**, Web3, automation | [**allinone.cash**](https://allinone.cash/) |
+
+</details>
+
+<details>
+<summary><b>🤖 AI, data & intelligence</b></summary>
+
+<br>
+
+| Project | What it is | Link |
+|:--|:--|:--|
+| **Zoctor AI** | Medical **RAG** — reports → insights; **FastAPI**, LLM agents, **Vector DB**, embeddings, NLP | [**zoctorai.com**](https://www.zoctorai.com) |
+| **FornixAI** | School incident intelligence — **OCR**, LLM extraction, **NLP**, **RAG**, forecasting | [**siap.fornixai.com**](https://siap.fornixai.com/login) |
+| **Transcrypt AI** | Meeting intelligence — live **speech-to-text**, translation, minutes; streaming audio, LLM/NLP | [**transcrypt-ai-fe.vercel.app**](https://transcrypt-ai-fe.vercel.app/) |
+| **Catch Menu** | AI QR menus for restaurants; **React + Tailwind** + Python; templates & admin | [**catchmenu.com**](https://www.catchmenu.com) |
+| **Intelligent OCR & doc processing** | PDFs/scans → structured data; OCR, NLP, **Vector DB**, validation *(internal / NDA)* | *Contact for details* |
+
+</details>
+
+<details>
+<summary><b>⚙️ Automation, bots & internal tools</b></summary>
+
+<br>
+
+| Build | Notes | Link |
+|:--|:--|:--|
+| **Discord bot** | Mod, commands, crypto prices — Python, scraping, APIs *(private server)* | *Contact* |
+| **Web scraping & automation** | E-com & business data; Selenium, BeautifulSoup, G Suite *(mostly NDA)* | *Contact* |
+| **Crypto price tracker** | Alerts, watchlists, dashboards *(internal)* | *Contact* |
+| **PDF & Excel automation** | Reporting pipelines, validation *(NDA)* | *Contact* |
+| **AI meeting assistant** | STT, multilingual, LLM minutes *(NDA)* | *Contact* |
+| **E-commerce deal bot** | Stock/price monitoring, alerts; Selenium/BS4, **React** dashboards *(NDA)* | *Contact* |
+| **Network monitoring** | Server/API health, alerts (email/Telegram), **Python**, containers | *Contact* |
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
@@ -161,9 +216,10 @@ On the server I lean hard into **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / vers
 | Platform | Link |
 |:--:|:--|
 | **GitHub** | [**@Zaidi2126**](https://github.com/Zaidi2126) |
+| **GitLab** | [**Zaidi2126**](https://gitlab.com/Zaidi2126) |
 | **LinkedIn** | [**shehroz-zaidi-916a8a218**](https://www.linkedin.com/in/shehroz-zaidi-916a8a218) |
 | **Email** | [**shehroz.z.zaidi@gmail.com**](mailto:shehroz.z.zaidi@gmail.com) |
-| **Base** | **Dubai, UAE** |
+| **Base** | **Dubai, UAE** · **Born & raised UAE** |
 
 [![GitHub followers](https://img.shields.io/github/followers/Zaidi2126?style=social)](https://github.com/Zaidi2126)
 
@@ -173,8 +229,8 @@ On the server I lean hard into **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / vers
 
 <div align="center">
 
-**This README is a compiled snapshot of my public resume materials.**
+**README = résumé + portfolio (same story as my site).**
 
-<sub>⚡ Built for clarity · designed to hit different ⚡</sub>
+<sub>⚡ Have a project in mind? Email me — I actually reply ⚡</sub>
 
 </div>
