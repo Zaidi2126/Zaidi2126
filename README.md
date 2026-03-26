@@ -1,120 +1,180 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-# Hi, I'm **Syed Shehroz Haider** 👋
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Syed+Shehroz+Haider;Full+Stack+%26+Backend+Engineer;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+React;Shipping+production+systems+%F0%9F%9A%80+Dubai%2C+UAE" alt="Typing animation" />
 
-*Full Stack & Backend Software Engineer · ~4 years · Dubai, UAE*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontAlign=50&fontSize=42&descAlign=62&descAlignY=40" width="100%" alt="Header wave" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-Zaidi2126-181717?style=for-the-badge&logo=github)](https://github.com/Zaidi2126)
+<br/>
+
+[![Visitors](https://komarev.com/ghpvc/?username=Zaidi2126&label=VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/Zaidi2126)
+[![GitHub](https://img.shields.io/badge/GitHub-Zaidi2126-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaidi2126)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Shehroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
-[![Email](https://img.shields.io/badge/Email-shehroz.z.zaidi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
+
+<div align="center"><sub>~4 years · APIs · microservices · AI · Web3 · cloud · Dubai 🇦🇪</sub></div>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
-## About me
+## ✨ Spotlight
 
-I'm a **full stack engineer with a strong Python backend foundation**—about **four years** shipping **end-to-end production systems**. I design **REST APIs**, **microservices**, and **backend architecture** with **Django**, **FastAPI**, and **Flask**, and I build **responsive, data-driven frontends** with **React**, **Vue.js**, **TypeScript**, and **JavaScript**, integrated tightly with backend workflows.
+<table>
+<tr>
+<td width="52" valign="top"><h3>🎯</h3></td>
+<td>
 
-On the backend I care deeply about **authentication** (**OAuth2**, **JWT**, **RBAC**), **OpenAPI**-style documentation and **API versioning**, **async** and **real-time** workflows, **Redis** caching, **query optimization**, and **CI/CD**. I've delivered **applied AI** work—**document processing**, **summarization**, **intelligent extraction**, **OCR** pipelines, and **meeting-intelligence** / transcription-style flows—as well as **data scraping**, **automation**, **background workers**, and **workflow** / **reporting** pipelines.
+I'm a **full stack engineer with a strong Python backend foundation**—about **four years** shipping **end-to-end production systems**. I design **REST APIs**, **microservices**, and **backend architecture** with **Django**, **FastAPI**, and **Flask**, and I build **responsive, data-driven frontends** with **React**, **Vue.js**, **TypeScript**, and **JavaScript**, wired tightly to the backend.
 
-I've built and integrated **blockchain-enabled** systems using **Web3.py** and **Ethereum** (**smart contracts**, wallet flows, transaction optimization / **gas** efficiency), plus **payment** stacks (**Stripe**, **Authorize.net**), **receivable discounting**, and **secure fund-transfer** workflows. I operate daily in **Linux**, **Docker**, and **Kubernetes**, and deploy to **AWS** (**EC2**, **ECS**, **S3**). I also use **Node.js** for selected services, **internal tooling**, and integrations where it fits.
+On the server I lean hard into **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **async** & **real-time** flows, **Redis**, **query tuning**, and **CI/CD**. I've shipped **applied AI**—**document processing**, **summarization**, **intelligent extraction**, **OCR**, **meeting-intelligence**—plus **scraping**, **automation**, **workers**, and **workflow** / **reporting** pipelines.
 
-Focused on **performance**, **reliability**, and **maintainable** design—backend-first when it matters, full stack when the product needs it.
+**Web3.py · Ethereum · smart contracts**, wallets, **gas**-aware flows, **Stripe**, **Authorize.net**, receivable discounting, secure transfers. Daily toolkit: **Linux**, **Docker**, **Kubernetes**, **AWS** (**EC2**, **ECS**, **S3**), and **Node.js** where it earns its keep.
 
-## Experience
+**Philosophy:** performance, reliability, maintainability—**backend-first** when it counts, **full stack** when the product demands it.
 
-**United Future** — *Dubai, UAE* · `01/2024` – **Present**  
-*Roles reflected across my materials: Full Stack / Backend / Senior Backend Engineer*
+</td>
+</tr>
+</table>
 
-- Scalable **Python** services and **REST** APIs; **microservices**, real-time flows, third-party integrations  
-- **Django**, **FastAPI**, **Flask**; structured APIs, versioning, and docs  
-- **Web3.py** & **Ethereum** contracts; wallets, transactions, efficiency and reliability improvements  
-- **Applied AI**: document processing, summarization, contextual extraction; meeting-intelligence / transcription-style pipelines  
-- **React** and **Vue** dashboards and UI integrated with APIs  
-- **Redis** caching; **Docker** & **Kubernetes**; **Linux** deploy, monitor, debug  
-- **Node.js** for chosen services and build/tooling where needed  
-- **OAuth2**, **JWT**, **RBAC** (from senior backend-focused resume)
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
-**Brains Logic** — *Remote (United Kingdom)* · `02/2022` – `01/2024`  
-*Associate Full Stack / Associate Backend Engineer*
-
-- **Python** backends (**FastAPI**, **Django**), **REST** APIs, **microservices** for **fintech** and **document-heavy** products  
-- Frontends and internal tools with **React** & **JavaScript**  
-- **Stripe**, **Authorize.net**; receivable discounting and secure financial flows  
-- **OCR**, extraction, and **scraping** / ETL-style automation; background workers and workflow automation  
-- **AWS** (**ECS**, **EC2**, **S3**), **Docker**, **Kubernetes**; auth, security, and collaboration with product/frontend teams  
-- **Node.js** for supporting services and integrations  
-
-## Education
-
-**B.Sc. Software Engineering** — **University of Management and Technology (UMT)**, Lahore, Pakistan  
-Graduated with **Dean’s Merit Award**
-
-## Featured projects
-
-| Project | Link |
-| -------- | ---- |
-| **IFund** — receivable discounting / financial platform | [ifundfactoring.com](https://ifundfactoring.com) |
-| **All In One (AIO)** — crypto payment gateway, blockchain | [allinone.cash](https://allinone.cash) |
-| **AurPay** — crypto payment & settlement | — |
-| **Miami Bikes CRM** — CRM & ops dashboards | [miamibikes.onlinecrmpro.com](http://miamibikes.onlinecrmpro.com/login.php) |
-| **Crypto Card** — crypto cards, accounts, transactions | [crypto-card.store](https://crypto-card.store) |
-| **Hash Tech** — corporate platform | [hashtechno.com](https://hashtechno.com) |
-| **Web Development SaaS** — automation & React workflows | [app.avocadata.com](https://app.avocadata.com) |
-| **SmileFast CMS** — CMS & admin | [smilefast.com](https://smilefast.com) |
-| **Cyber Arena** — high-traffic digital / gaming-style platform | [cyber-arena.co](https://cyber-arena.co) |
-
-## Tech I use
-
-**Core**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
-**Data, cache & APIs**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Blockchain & payments**  
-Ethereum · Web3 · Smart contracts · Stripe · Authorize.net · Wallets & secure transactions
-
-**Cloud & ops**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-**Also:** OAuth2 · JWT · RBAC · REST · microservices · OCR · applied AI · Linux · CI/CD · automation & background processing
-
-## GitHub activity
+## 🛠️ Arsenal
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zaidi2126&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Zaidi2126's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidi2126&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,vue,ts,js,nodejs,docker,kubernetes,aws,redis,postgres,mysql,git,github,linux&perline=9" alt="Tech icons" width="90%" />
 </p>
 
-## Connect
+<p align="center">
+  <img src="https://img.shields.io/badge/OAuth2-3C1?&style=for-the-badge&logo=auth0&logoColor=white&color=EB5424" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RBAC-1B2838?style=for-the-badge&logo=sharp&logoColor=white" alt="RBAC" />
+  <img src="https://img.shields.io/badge/Web3-E2761B?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+  <img src="https://img.shields.io/badge/OCR%20%26%20AI-7C3AED?style=for-the-badge" alt="OCR AI" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
 
-- **GitHub:** [@Zaidi2126](https://github.com/Zaidi2126)
-- **LinkedIn:** [shehroz-zaidi-916a8a218](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
-- **Email:** [shehroz.z.zaidi@gmail.com](mailto:shehroz.z.zaidi@gmail.com)
-- **Location:** Dubai, UAE
+<div align="center"><sub>Microservices · REST · OCR · automation · background jobs · smart contracts · secure payments</sub></div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
+
+## 💼 Experience
+
+<details open>
+<summary><b>🇦🇪 United Future</b> · <i>Dubai, UAE</i> · <code>01/2024</code> → <b>Present</b> · <i>Full Stack / Backend / Senior Backend</i></summary>
+
+<br>
+
+- Scalable **Python** services & **REST** APIs · **microservices**, real-time flows, third-party integrations  
+- **Django**, **FastAPI**, **Flask** · structured APIs, versioning, documentation  
+- **Web3.py** & **Ethereum** · wallets, transactions, efficiency & reliability  
+- **Applied AI**: documents, summarization, contextual extraction; meeting-intelligence / transcription-style flows  
+- **React** & **Vue** dashboards hooked to APIs  
+- **Redis** · **Docker** & **Kubernetes** · **Linux** ops (deploy, monitor, debug)  
+- **Node.js** for chosen services & tooling  
+- **OAuth2**, **JWT**, **RBAC**  
+
+</details>
+
+<br>
+
+<details>
+<summary><b>🇬🇧 Brains Logic</b> · <i>Remote — United Kingdom</i> · <code>02/2022</code> – <code>01/2024</code> · <i>Associate Full Stack / Backend</i></summary>
+
+<br>
+
+- **Python** (**FastAPI**, **Django**), **REST**, **microservices** for **fintech** & **document-heavy** products  
+- **React** & **JavaScript** frontends & internal tools  
+- **Stripe**, **Authorize.net** · receivable discounting & secure financial flows  
+- **OCR**, extraction, **scraping** / ETL automation; workers & workflow automation  
+- **AWS** (**ECS**, **EC2**, **S3**), **Docker**, **Kubernetes** · security & cross-team delivery  
+- **Node.js** integrations  
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
+
+## 🎓 Education
+
+<table>
+<tr>
+<td>
+
+🎓 **B.Sc. Software Engineering**  
+**University of Management and Technology (UMT)** · Lahore, Pakistan  
+
+🏆 **Dean’s Merit Award**
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
+
+## 🚀 Shipped & scaled
+
+| | Product | Live |
+|:--:|--|--|
+| 💰 | **IFund** — receivable discounting / finance | [**ifundfactoring.com**](https://ifundfactoring.com) |
+| ⛓️ | **All In One (AIO)** — crypto gateway, blockchain | [**allinone.cash**](https://allinone.cash) |
+| 🪙 | **AurPay** — crypto payment & settlement | *link on request* |
+| 🚲 | **Miami Bikes CRM** — CRM & ops | [**portal**](http://miamibikes.onlinecrmpro.com/login.php) |
+| 💳 | **Crypto Card** — cards, accounts, txs | [**crypto-card.store**](https://crypto-card.store) |
+| 🏢 | **Hash Tech** — corporate platform | [**hashtechno.com**](https://hashtechno.com) |
+| ⚙️ | **Web Dev SaaS** — automation + React | [**app.avocadata.com**](https://app.avocadata.com) |
+| 😀 | **SmileFast CMS** — CMS & admin | [**smilefast.com**](https://smilefast.com) |
+| 🎮 | **Cyber Arena** — high-traffic digital / gaming | [**cyber-arena.co**](https://cyber-arena.co) |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
+
+## 📊 GitHub pulse
+
+<table align="center">
+<tr>
+<td align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
+</td>
+<td align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=Zaidi2126&theme=radical&hide_border=true&border_radius=12" alt="Streak stats" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidi2126&layout=donut&theme=radical&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zaidi2126&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
+
+## 📡 Connect
 
 <div align="center">
 
-⭐️ *This README compiles my public resume materials into one profile snapshot. Thanks for visiting.*
+| Platform | Link |
+|:--:|:--|
+| **GitHub** | [**@Zaidi2126**](https://github.com/Zaidi2126) |
+| **LinkedIn** | [**shehroz-zaidi-916a8a218**](https://www.linkedin.com/in/shehroz-zaidi-916a8a218) |
+| **Email** | [**shehroz.z.zaidi@gmail.com**](mailto:shehroz.z.zaidi@gmail.com) |
+| **Base** | **Dubai, UAE** |
+
+[![GitHub followers](https://img.shields.io/github/followers/Zaidi2126?style=social)](https://github.com/Zaidi2126)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer" width="100%" alt="Footer wave" />
+
+<div align="center">
+
+**This README is a compiled snapshot of my public resume materials.**
+
+<sub>⚡ Built for clarity · designed to hit different ⚡</sub>
 
 </div>
