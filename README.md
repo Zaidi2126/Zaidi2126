@@ -163,9 +163,28 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
   <img height="180" src="https://readme-stats-github.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Zaidi2126&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
-</p>
+### Beyond the chart
+
+*Replaces trophy widgets — same story, no extra third‑party images.*
+
+<table>
+<tr>
+<td width="28" valign="top"><b>🎯</b></td>
+<td><b>What I do</b> · Full stack with a backend spine — <b>Python</b> (<b>FastAPI</b>, <b>Django</b>, <b>Flask</b>), <b>React</b> / <b>Vue</b>, <b>AI</b> (LLM, RAG, OCR, speech), <b>Web3</b>, and heavy <b>automation</b>.</td>
+</tr>
+<tr>
+<td valign="top"><b>🚀</b></td>
+<td><b>What I’ve shipped</b> · <b>22+</b> portfolio builds (fintech, crypto gateways, SaaS, CRM/CMS, esports) plus internal, NDA, and ops tooling — see the <b>Projects</b> section above.</td>
+</tr>
+<tr>
+<td valign="top"><b>🌐</b></td>
+<td><b>Where</b> · <b>Dubai, UAE</b> · born &amp; raised · happy on <b>async</b> / <b>remote</b> teams.</td>
+</tr>
+<tr>
+<td valign="top"><b>💬</b></td>
+<td><b>Collab</b> · Serious product work, contracts, or architecture deep-dives → <a href="mailto:shehroz.z.zaidi@gmail.com">shehroz.z.zaidi@gmail.com</a></td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
