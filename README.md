@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi, I'm **Zaidi** 👋
+# Hi, I'm **Syed Shehroz** 👋
 
-*Developer · Builder · Always learning*
+*Senior Python Backend Engineer · Dubai, UAE*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Zaidi2126-181717?style=for-the-badge&logo=github)](https://github.com/Zaidi2126)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Shehroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
+[![Email](https://img.shields.io/badge/Email-shehroz.z.zaidi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
 </div>
 
@@ -12,19 +14,38 @@
 
 ## About me
 
-I'm **Zaidi** — a developer who likes turning messy problems into software that actually helps someone. I care about code that’s easy to read and change, with just enough structure that a project can grow without turning into spaghetti.
+I'm a **Senior Python Backend Engineer** with solid experience designing, building, and scaling **production backends** with **Python**, **FastAPI**, **Django**, and **Flask**. I focus on **REST APIs**, **microservices**, auth (**OAuth2**, **JWT**, **RBAC**), and services that stay reliable under load.
 
-Day to day, I’m usually building things, trying new tools when they earn their place, and revisiting older projects when I learn a better approach. I’m happiest when something ships: a small fix, a new feature, or a repo that’s a little clearer than it was last week.
+I've shipped **applied AI** features—intelligent document processing, extraction workflows, and meeting-intelligence backends—and worked on **blockchain-integrated** platforms with wallets and secure transaction flows. I'm comfortable on **Linux**, and I deploy with **Docker**, **Kubernetes**, and **AWS** (including **EC2**, **ECS**, **S3**). I often pair with **React** frontends for API-driven UIs.
 
-This repository (`Zaidi2126` — same as [my username](https://github.com/Zaidi2126)) is my **profile README**, so it shows up at the top of my GitHub profile. My other repos and activity here are the real portfolio; if you want to collaborate or chat about something you see, reach out via the links below.
+**Currently:** Senior Backend Developer at **United Future** (Dubai) — scalable Python backends, real-time and async workflows, Redis performance work, and production Kubernetes deployments.
+
+**Previously:** Backend Developer at **Brains Logic** (remote, UK) — fintech and document platforms, payments, OCR/data pipelines, scraping, and AWS deployments.
+
+**Education:** B.Sc. Software Engineering, **University of Management and Technology** — graduated with **Dean’s Merit Award**.
+
+This repo (`Zaidi2126`) is my GitHub **profile README**. Pinned repos and activity below round out the picture—open to meaningful collaboration and conversations about backend engineering.
 
 ## Tech I use
 
+**Languages & frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Data & caching**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Infrastructure & tooling**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-*Add more badges for languages and frameworks you actually use.*
 
 ## GitHub activity
 
@@ -36,13 +57,15 @@ This repository (`Zaidi2126` — same as [my username](https://github.com/Zaidi2
 ## Connect
 
 - **GitHub:** [@Zaidi2126](https://github.com/Zaidi2126)
-
-*Add LinkedIn, portfolio, or email here when you’re ready.*
+- **LinkedIn:** [shehroz-zaidi-916a8a218](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
+- **Email:** [shehroz.z.zaidi@gmail.com](mailto:shehroz.z.zaidi@gmail.com)
+- **Phone:** +971 50 363 7428
+- **Location:** Dubai, UAE
 
 ---
 
 <div align="center">
 
-⭐️ *Thanks for visiting — feel free to fork this README and make it yours.*
+⭐️ *Thanks for visiting my profile.*
 
 </div>
