@@ -187,10 +187,13 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 ## 📊 GitHub pulse
 
+<!-- Stats widgets: official github-readme-stats + github-profile-trophy hosts often 503 (deployment paused).
+     Mirrors below return image/svg+xml — swap back to vercel.app if those projects resume. -->
+
 <table align="center">
 <tr>
 <td align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
+  <img height="180" src="https://readme-stats-github.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
 </td>
 <td align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=Zaidi2126&theme=radical&hide_border=true&border_radius=12" alt="Streak stats" />
@@ -198,13 +201,13 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidi2126&layout=donut&theme=radical&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
+  <img height="180" src="https://readme-stats-github.vercel.app/api/top-langs/?username=Zaidi2126&layout=donut&theme=radical&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaidi2126&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
+  <img src="https://github-trophies.vercel.app/?username=Zaidi2126&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
