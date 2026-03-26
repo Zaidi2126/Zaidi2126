@@ -1,22 +1,9 @@
-<!-- Animation: typing SVGs · twinkling capsules · GIF stickers · snake SVG (see Actions) · activity graph -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<p>
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="52" alt="Hi" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/wave.gif" width="52" alt="wave" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="52" alt="dev" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="52" alt="pc" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="52" alt="rocket" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="52" alt="earth" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Shehroz+Zaidi+%7C+Syed+Shehroz+Haider;Full+Stack+%26+Backend+Engineer;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+AI;Born+%26+raised+UAE+%F0%9F%87%A6%F0%9F%87%AA+%C2%B7+Dubai" alt="Typing animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=920&lines=Shehroz+Zaidi+%7C+Syed+Shehroz+Haider;Full+Stack+%26+Backend+Engineer+%E2%9A%A1;Python+%E2%80%A2+FastAPI+%E2%80%A2+Django+%E2%80%A2+React+%E2%80%A2+AI+%F0%9F%A4%96;Born+%26+raised+UAE+%F0%9F%87%A6%F0%9F%87%AA+%C2%B7+Dubai+%F0%9F%8C%86" alt="Typing intro" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=400&color=22D3EE&center=true&vCenter=true&width=850&lines=%F0%9F%94%A5+Web+%C2%B7+Blockchain+%C2%B7+Automation+%C2%B7+AI;%E2%9A%A1+22%2B+projects+shipped+%26+counting;%F0%9F%8E%AF+Open+to+collabs+%2B+serious+builds;%F0%9F%92%9C+Ship+fast.+Sleep+later+%28kidding%29." alt="Typing taglines" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=700&color=F472B6&center=true&vCenter=true&width=920&lines=READY+PLAYER+ONE...;STACK+OVERFLOW+IS+MY+SIDE+QUEST;404%3A+sleep+not+found" alt="Retro typing" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling&text=&fontAlign=50" width="100%" alt="wave banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontAlign=50&fontSize=42&descAlign=62&descAlignY=40" width="100%" alt="Header wave" />
 
 <br/>
 
@@ -26,26 +13,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Syed%20Shehroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shehroz-zaidi-916a8a218)
 [![Email](https://img.shields.io/badge/Email-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
-<div align="center"><sub>🔥 ~4 years · 22+ shipped projects · backends · AI · Web3 · automation · Dubai 🇦🇪 🔥</sub></div>
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/coin.gif" height="28" alt="" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/powerup.gif" height="28" alt="" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/headbang.gif" height="28" alt="" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" height="28" alt="" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/dino.gif" height="28" alt="" />
+<div align="center"><sub>~4 years · ~22+ shipped projects · backends · AI · Web3 · automation · Dubai 🇦🇪</sub></div>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18,12,24&height=4&section=footer&animation=twinkling" width="100%" alt="" />
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Point_Down.gif" width="40" alt="" />
-  &nbsp;✨ Spotlight ✨&nbsp;
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="40" alt="" />
-</h2>
+## ✨ Spotlight
 
-<img align="right" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="" />
+<table>
+<tr>
+<td width="52" valign="top"><h3>🎯</h3></td>
+<td>
 
 **Portfolio vibe:** developer **born and raised in the UAE**, focused on **backend systems**, **automation**, **AI**, and **blockchain**—and on building things that **actually work** and **ship**. Off-screen: **cars**, **coding**, **snooker**, and hunting the **best beef burgers** in town.
 
@@ -55,30 +34,22 @@ I care about **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **real-tim
 
 **Philosophy:** performance, reliability, maintainability—**backend-first** when it counts, **full stack** when the product demands it.
 
-<br clear="all" />
+</td>
+</tr>
+</table>
 
-### 💬 Words from my site
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="42" align="left" alt="" />
+### Words from my site
 
 I'm **Shehroz Zaidi**—I love **problem-solving**, **AI-driven products**, and anything that forces me to think differently. I've spent years on **full platforms**, **deep automation**, and **AI-powered** systems so every piece **connects** and **performs**. I keep exploring **blockchain** and projects that tie **real-world** ops to **new tech**.
 
 When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, **good food** keeps me happy. (Also: **JDM**, **car guy**, **snooker addict**, **tech head**—if you know, you know.)
 
-<br clear="all" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=10,14,22&height=100&section=header&animation=scaleIn&fontSize=1&text=" width="100%" alt="" />
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="40" alt="" />
-  &nbsp;🛠️ Arsenal 🛠️&nbsp;
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="40" alt="" />
-</h2>
+## 🛠️ Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,vue,angular,ts,js,tailwind,nodejs,php,laravel,docker,kubernetes,aws,redis,postgres,mysql,git,github,gitlab,linux&perline=11" alt="Tech" width="92%" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,react,vue,angular,ts,js,tailwind,nodejs,php,laravel,docker,kubernetes,aws,redis,postgres,mysql,git,github,gitlab,linux&perline=11" alt="Tech icons" width="92%" />
 </p>
 
 <p align="center">
@@ -87,7 +58,7 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
   <img src="https://img.shields.io/badge/BeautifulSoup-655b00?style=for-the-badge" alt="BeautifulSoup" />
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/LLM%20%C2%B7%20RAG%20%C2%B7%20Vector_DB-7C3AED?style=for-the-badge" alt="LLM" />
+  <img src="https://img.shields.io/badge/LLM%20%C2%B7%20RAG%20%C2%B7%20Vector_DB-7C3AED?style=for-the-badge" alt="LLM RAG" />
   <img src="https://img.shields.io/badge/NLP%20%C2%B7%20Embeddings-0891B2?style=for-the-badge" alt="NLP" />
   <img src="https://img.shields.io/badge/Speech_to_Text-E11D48?style=for-the-badge" alt="STT" />
   <img src="https://img.shields.io/badge/Web_Scraping-334155?style=for-the-badge" alt="Scraping" />
@@ -100,17 +71,14 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
 
-<div align="center"><sub>✨ Same stack chips as my portfolio · microservices · automation · transformers · deployments ✨</sub></div>
+<div align="center"><sub>Matches the public stack list on my portfolio · microservices · automation · transformers · deployments</sub></div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,8&height=64&section=footer&animation=twinkling&text=" width="100%" alt="" />
-<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
-<h2 align="center">
-  💼 Experience 💼
-</h2>
+## 💼 Experience
 
 <details open>
-<summary><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Super_Mario.gif" width="24" alt="" /><b> 🇦🇪 United Future</b> · <i>Dubai, UAE</i> · <code>01/2024</code> → <b>Present</b> · <i>Full Stack / Backend / Senior Backend</i></summary>
+<summary><b>🇦🇪 United Future</b> · <i>Dubai, UAE</i> · <code>01/2024</code> → <b>Present</b> · <i>Full Stack / Backend / Senior Backend</i></summary>
 
 <br>
 
@@ -128,7 +96,7 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 <br>
 
 <details>
-<summary><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/coin.gif" width="22" alt="" /><b> 🇬🇧 Brains Logic</b> · <i>Remote — United Kingdom</i> · <code>02/2022</code> – <code>01/2024</code> · <i>Associate Full Stack / Backend</i></summary>
+<summary><b>🇬🇧 Brains Logic</b> · <i>Remote — United Kingdom</i> · <code>02/2022</code> – <code>01/2024</code> · <i>Associate Full Stack / Backend</i></summary>
 
 <br>
 
@@ -141,25 +109,17 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width="36" alt="" />
-  &nbsp;🎓 Education 🎓&nbsp;
-</h2>
+## 🎓 Education
 
 🎓 **B.Sc. Software Engineering** — **UMT**, Lahore, Pakistan · **Dean’s Merit Award**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=4&section=footer&animation=blinking" width="100%" alt="" />
-<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="44" alt="" />
-  &nbsp;🚀 Projects 🚀&nbsp;
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Rocket.gif" width="44" alt="" />
-</h2>
+## 🚀 Projects
 
-<p align="center"><i>🔥 From my portfolio — Web · Blockchain · Automation · AI · Tools 🔥</i></p>
+*Curated from my portfolio — web, blockchain, AI, and automation. Filters on the site match: **Web · Blockchain · Automation · AI · Tools**.*
 
 <details open>
 <summary><b>🌐 Web & platforms</b></summary>
@@ -223,62 +183,33 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
-<h2 align="center">📊 GitHub pulse 📊</h2>
+## 📊 GitHub pulse
 
 <table align="center">
 <tr>
 <td align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zaidi2126&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github&border_radius=12" alt="GitHub stats" />
 </td>
 <td align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=Zaidi2126&theme=radical&hide_border=true&border_radius=12" alt="streak" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Zaidi2126&theme=radical&hide_border=true&border_radius=12" alt="Streak stats" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidi2126&layout=donut&theme=radical&hide_border=true&langs_count=8&border_radius=12" alt="langs" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaidi2126&layout=donut&theme=radical&hide_border=true&langs_count=8&border_radius=12" alt="Top languages" />
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" height="36" alt="" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Hello_Big.gif" height="40" alt="" />
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" height="36" alt="" />
-</p>
-
-### 🐍 Contribution snake
-
-<p align="center">
-  <sub>⏳ Runs via GitHub Actions → pushes to <code>output</code> branch. After your first workflow run, the snake appears below.</sub>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zaidi2126/Zaidi2126/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zaidi2126/Zaidi2126/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Zaidi2126/Zaidi2126/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-### 📈 Activity graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaidi2126&theme=redical&hide_border=true&area=true&radius=12&color=7C3AED&line=F472B6&point=FFFFFF" alt="Activity graph" width="98%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zaidi2126&theme=radical&no-frame=true&row=2&column=4&margin-w=8&margin-h=8" alt="Trophies" width="95%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=72&section=footer&animation=twinkling&text=" width="100%" alt="" />
-<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="" />
+<img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="40" alt="" />
-  &nbsp;📡 Connect 📡&nbsp;
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="40" alt="" />
-</h2>
+## 📡 Connect
 
 <div align="center">
 
@@ -290,22 +221,16 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 | **Email** | [**shehroz.z.zaidi@gmail.com**](mailto:shehroz.z.zaidi@gmail.com) |
 | **Base** | **Dubai, UAE** · **Born & raised UAE** |
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" width="48" alt="" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="48" alt="" />
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/happy.gif" width="48" alt="" />
-
 [![GitHub followers](https://img.shields.io/github/followers/Zaidi2126?style=social)](https://github.com/Zaidi2126)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer&animation=fadeIn" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=100&section=footer" width="100%" alt="Footer wave" />
 
 <div align="center">
 
-**README = résumé + portfolio — now with extra motion sickness (you’re welcome).**
+**README = résumé + portfolio (same story as my site).**
 
-<sub>⚡ Project in mind? Email me — I actually reply ⚡</sub>
-
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif" width="320" alt="" />
+<sub>⚡ Have a project in mind? Email me — I actually reply ⚡</sub>
 
 </div>
