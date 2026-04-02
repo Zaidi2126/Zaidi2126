@@ -41,7 +41,7 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 ## 🎓 Education
 
-🎓 **B.Sc. Software Engineering** — **UMT**, Lahore, Pakistan · **Dean’s Merit Award**
+🎓 **BS-SE (B.Sc. Software Engineering)** — **University of Management and Technology (UMT)** · **Dean’s Merit Award**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834257-d5869300-a447-11eb-8ca0-540b49b82ad4.gif" width="100%" alt="Divider" />
 
