@@ -21,19 +21,19 @@
 
 ## ✨ Spotlight
 
-**Portfolio vibe:** developer **born and raised in the UAE**, focused on **backend systems**, **automation**, **AI**, and **blockchain**—and on building things that **actually work** and **ship**. Off-screen: **cars**, **coding**, **snooker**, and hunting the **best beef burgers** in town.
+**Portfolio vibe: Focused on **backend systems**, **automation**, **AI**, and **blockchain** and on building things that **actually work** and **ship**. Off screen: **cars**, **coding**, **snooker**, and hunting the **best beef burgers** in town.
 
-I'm a **full stack engineer with a strong Python backend**—about **four years** in **end-to-end production**: **REST APIs**, **microservices**, **Django**, **FastAPI**, **Flask**, plus **React**, **Vue**, **TypeScript**, and **Tailwind**-style frontends where the product needs them.
+I'm a **full stack engineer with a strong Python backend** about **four years** in **end-to-end production**: **REST APIs**, **microservices**, **Django**, **FastAPI**, **Flask**, plus **React**, **Vue**, **TypeScript**, and **Tailwind** style frontends where the product needs them.
 
 I care about **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **real-time** & **async** flows, **Redis**, **CI/CD**, and **applied AI** (documents, **OCR**, **RAG**, **LLMs**, **speech-to-text**, meeting intelligence). **Web3**, **Ethereum**, **Stripe** / **Authorize.net**, **Docker**, **Kubernetes**, and **AWS** (**EC2**, **ECS**, **S3**) are regular territory.
 
-**Philosophy:** performance, reliability, maintainability—**backend-first** when it counts, **full stack** when the product demands it.
+**Philosophy:** performance, reliability, maintainability—**backend first** when it counts, **full stack** when the product demands it.
 
 ### Words from my site
 
-I'm **Shehroz Zaidi**—I love **problem-solving**, **AI-driven products**, and anything that forces me to think differently. I've spent years on **full platforms**, **deep automation**, and **AI-powered** systems so every piece **connects** and **performs**. I keep exploring **blockchain** and projects that tie **real-world** ops to **new tech**.
+I'm **Shehroz Zaidi**—I love **problem solving**, **AI driven products**, and anything that forces me to think differently. I've spent years on **full platforms**, **deep automation**, and **AI powered** systems so every piece **connects** and **performs**. I keep exploring **blockchain** and projects that tie **real world** ops to **new tech**.
 
-When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, **good food** keeps me happy. (Also: **JDM**, **car guy**, **snooker addict**, **tech head**—if you know, you know.)
+When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, **good food** keeps me happy. (Also: **JDM**, **car guy**, **snooker addict**, **tech head** if you know, you know.)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow line" />
 
@@ -47,7 +47,7 @@ When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, 
 
 ## 🚀 Projects
 
-*Curated from my portfolio — web, blockchain, AI, and automation. Filters on the site match: **Web · Blockchain · Automation · AI · Tools**.*
+*Curated from my portfolio web, blockchain, AI, and automation. Filters on the site match: **Web · Blockchain · Automation · AI · Tools**.*
 
 <details open>
 <summary><b>🌐 Web & platforms</b></summary>
