@@ -13,7 +13,7 @@
 [![Upwork](https://img.shields.io/badge/Upwork-Hire_me_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f6153eb2d1dcc6ec)
 [![Email](https://img.shields.io/badge/Email-REACH%20OUT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shehroz.z.zaidi@gmail.com)
 
-<div align="center"><sub>~4 years · ~22+ shipped projects · backends · AI · Web3 · automation · Dubai 🇦🇪</sub></div>
+<div align="center"><sub>~4 years · ~22+ Shipped projects · Backends · AI · Web3 · Automation · Dubai 🇦🇪</sub></div>
 
 </div>
 
