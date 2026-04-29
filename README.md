@@ -27,11 +27,11 @@ I'm a **full stack engineer with a strong Python backend** about **four years** 
 
 I care about **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **real-time** & **async** flows, **Redis**, **CI/CD**, and **applied AI** (documents, **OCR**, **RAG**, **LLMs**, **speech-to-text**, meeting intelligence). **Web3**, **Ethereum**, **Stripe** / **Authorize.net**, **Docker**, **Kubernetes**, and **AWS** (**EC2**, **ECS**, **S3**) are regular territory.
 
-**Philosophy:** performance, reliability, maintainability—**backend first** when it counts, **full stack** when the product demands it.
+**Philosophy:** performance, reliability, maintainability **backend first** when it counts, **full stack** when the product demands it.
 
 ### Words from my site
 
-I'm **Shehroz Zaidi**—I love **problem solving**, **AI driven products**, and anything that forces me to think differently. I've spent years on **full platforms**, **deep automation**, and **AI powered** systems so every piece **connects** and **performs**. I keep exploring **blockchain** and projects that tie **real world** ops to **new tech**.
+I'm **Shehroz Zaidi** I love **problem solving**, **AI driven products**, and anything that forces me to think differently. I've spent years on **full platforms**, **deep automation**, and **AI powered** systems so every piece **connects** and **performs**. I keep exploring **blockchain** and projects that tie **real world** ops to **new tech**.
 
 When I'm not building: **cars** keep me grounded, **snooker** keeps me patient, **good food** keeps me happy. (Also: **JDM**, **car guy**, **snooker addict**, **tech head** if you know, you know.)
 
@@ -136,7 +136,7 @@ flowchart LR
 
 <br/>
 
-> **Ship the hard stuff first** — reliable backends, clear contracts, frontends that don’t fight the data.
+> **Ship the hard stuff first** reliable backends, clear contracts, frontends that don’t fight the data.
 
 <div align="center"><sub>22+ portfolio builds above · fintech · SaaS · crypto · internal / NDA tools · <b>open to serious collaboration</b></sub></div>
 
@@ -152,7 +152,6 @@ flowchart LR
 | **LinkedIn** | [**shehroz-zaidi-916a8a218**](https://www.linkedin.com/in/shehroz-zaidi-916a8a218) |
 | **Upwork** | [**Freelancer profile**](https://www.upwork.com/freelancers/~01f6153eb2d1dcc6ec) |
 | **Email** | [**shehroz.z.zaidi@gmail.com**](mailto:shehroz.z.zaidi@gmail.com) |
-| **Base** | **Dubai, UAE** · **Born & raised UAE** |
 
 [![GitHub followers](https://img.shields.io/github/followers/Zaidi2126?style=social)](https://github.com/Zaidi2126)
 
@@ -162,8 +161,6 @@ flowchart LR
 
 <div align="center">
 
-**README = résumé + portfolio (same story as my site).**
-
-<sub>⚡ Have a project in mind? Email me — I actually reply ⚡</sub>
+<sub>⚡ Have a project in mind? Email me! I actually reply ⚡</sub>
 
 </div>
