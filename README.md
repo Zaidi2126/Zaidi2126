@@ -21,13 +21,13 @@
 
 ## ✨ Spotlight
 
-**Portfolio vibe: Focused on **backend systems**, **automation**, **AI**, and **blockchain** and on building things that **actually work** and **ship**. Off screen: **cars**, **coding**, **snooker**, and hunting the **best beef burgers** in town.
+Focused on **backend systems**, **automation**, **AI**, and **blockchain** and on building things that **actually work** and **ship**. Off screen: **cars**, **coding**, **snooker**, and hunting the **best beef burgers** in town.
 
 I'm a **full stack engineer with a strong Python backend** about **four years** in **end-to-end production**: **REST APIs**, **microservices**, **Django**, **FastAPI**, **Flask**, plus **React**, **Vue**, **TypeScript**, and **Tailwind** style frontends where the product needs them.
 
 I care about **OAuth2**, **JWT**, **RBAC**, **OpenAPI** / versioning, **real-time** & **async** flows, **Redis**, **CI/CD**, and **applied AI** (documents, **OCR**, **RAG**, **LLMs**, **speech-to-text**, meeting intelligence). **Web3**, **Ethereum**, **Stripe** / **Authorize.net**, **Docker**, **Kubernetes**, and **AWS** (**EC2**, **ECS**, **S3**) are regular territory.
 
-**Philosophy:** performance, reliability, maintainability **backend first** when it counts, **full stack** when the product demands it.
+performance, reliability, maintainability **backend first** when it counts, **full stack** when the product demands it.
 
 ### Words from my site
 
